@@ -1,0 +1,38 @@
+# Python runtime and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Database
+*.db
+*.db-journal
+*.sqlite3
+backend/recoverai.db
+backend/recoverai.db-journal
+
+# Frontend/Node
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+dist-ssr/
+*.local
+.eslintcache
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.log
