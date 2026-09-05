@@ -1,0 +1,7 @@
+file 'E:/razor/pitch_video/01_problem.mp4'
+file 'E:/razor/pitch_video/02_solution.mp4'
+file 'E:/razor/pitch_video/03_architecture.mp4'
+file 'E:/razor/pitch_video/04_scenario1.mp4'
+file 'E:/razor/pitch_video/05_scenario2.mp4'
+file 'E:/razor/pitch_video/06_scenario3.mp4'
+file 'E:/razor/pitch_video/07_results.mp4'
