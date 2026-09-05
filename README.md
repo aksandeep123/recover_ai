@@ -39,7 +39,6 @@
 - [Database Architecture & Schema](#-database-architecture--schema)
 - [Quick Start Guide](#-quick-start-guide)
 - [Automated Testing Suite](#-automated-testing-suite)
-- [5-Minute Video Demonstration Script](#-5-minute-video-demonstration-script)
 
 ---
 
@@ -277,19 +276,6 @@ backend/tests/test_agents.py::test_orchestrator_closed_loop PASSED [100%]
 
 ========================== 5 passed in 0.54s ==========================
 ```
-
----
-
-## 🎤 5-Minute Video Demonstration Script
-
-*Use this script for hackathon recording or pitch demonstration:*
-
-* **0:00 – 0:45 (The Problem & Thesis):** Show the dashboard header. Highlight that $5B+ is lost annually to involuntary dunning churn, and that blind retrying destroys customer trust.
-* **0:45 – 1:45 (Single Event Closed-Loop Demo):** Click **"Trigger Failed Payment"**. Navigate to **Agent Activity** to show the live execution trace: Risk Agent $\rightarrow$ Root Cause Agent $\rightarrow$ Strategy Agent $\rightarrow$ Policy Engine validation $\rightarrow$ Execution.
-* **1:45 – 2:45 (Human Approval Center):** Trigger a high-value payment (₹45,000). Show it getting intercepted by the Policy Engine and held in the **Approval Center**. Review Customer 360 signals and click **"Approve & Execute"**.
-* **2:45 – 3:45 (Analytics, Trajectory & Unit Economics):** Open **Impact Analytics**. Walk through the Daily Recovery Trajectory area chart, Interventions Dispatch Donut, and the Unit Economics Waterfall showing ₹14,000%+ ROI.
-* **3:45 – 4:30 (A/B Testing & What-If Simulator):** Open **A/B Experiments** to highlight Branch C (57.1% recovery rate). Open **What-If Simulator** and drag retry sliders to showcase dynamic ARR forecasting.
-* **4:30 – 5:00 (Compliance & Conclusion):** Run the **Model Evaluation Suite** to show 100% compliance pass rate. Conclude with how RecoverAI empowers merchants to turn lost revenue into pure bottom-line profit.
 
 ---
 
